@@ -8,3 +8,4 @@
 
 ## 机试题序号及题目
 [【华为机试题分析】 1 字符串最后一个单词的长度](https://allen5g.blog.csdn.net/article/details/113914403)
+[【华为机试题分析】 2 计算某字母出现次数](https://allen5g.blog.csdn.net/article/details/113962135)
