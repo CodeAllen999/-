@@ -10,3 +10,4 @@
 [【华为机试题分析】 1 字符串最后一个单词的长度](https://allen5g.blog.csdn.net/article/details/113914403)
 [【华为机试题分析】 2 计算某字母出现次数](https://allen5g.blog.csdn.net/article/details/113962135)
 [【华为机试题分析】 3 明明的随机数](https://allen5g.blog.csdn.net/article/details/114004254)
+[【华为机试题分析】 4 字符串分割](https://allen5g.blog.csdn.net/article/details/114006237)
